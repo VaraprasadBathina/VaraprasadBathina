@@ -18,7 +18,7 @@
 ## 🧑‍💻 About Me
 
 - 🏗️ **Data Engineer** with **5+ years** designing and owning **scalable data pipelines, lakehouse architectures, and real-time streaming systems** processing **2TB+ daily** and **12M+ records**.
-- 🏥 Domain expertise across **HIPAA-regulated healthcare**, **Fortune 500 retail**, and **international banking** — delivering compliant, production-grade platforms.
+- 🏥 Domain expertise Proven track record of delivering data solutions across high-stakes industries, including HIPAA-regulated healthcare, Fortune 500 retail, and international banking..
 - ☁️ Hands-on across the modern data stack: **AWS, Azure, GCP, Snowflake, Databricks, Spark, Kafka, Airflow, dbt, and Delta Lake**.
 - 🤖 Currently expanding into **Generative AI, LLMs, LangChain, and AWS Bedrock** to build **intelligent, agentic data applications**.
 
