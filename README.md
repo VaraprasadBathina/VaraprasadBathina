@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Vidhyalakshmivaraprasad+Bathina+%F0%9F%91%8B;Data+Engineer+%7C+5%2B+Years+Experience;Cloud+%7C+Streaming+%7C+GenAI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Vidhyalakshmivaraprasad+Bathina+%F0%9F%91%8B;Data+Engineer+with+5%2B+Years+Experience;Cloud%2C+Streaming+and+GenAI" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <b>🚀 Data Engineer | M.S. Data Engineering, University of North Texas</b><br/>
-  <i>Building scalable lakehouses, real-time streaming systems, and AI-powered data platforms.</i>
+  <i>I build data pipelines, lakehouses, and streaming systems that teams actually rely on.</i>
 </p>
 
 <p align="center">
@@ -17,84 +17,84 @@
 
 ## 🧑‍💻 About Me
 
-- 🏗️ **Data Engineer** with **5+ years** designing and owning **scalable data pipelines, lakehouse architectures, and real-time streaming systems** processing **2TB+ daily** and **12M+ records**.
-- 🏥 **Domain Expertise:** Proven track record of delivering data solutions across high-stakes industries, including **HIPAA-regulated healthcare, Fortune 500 retail, and international banking**.
-- ☁️ Hands-on across the modern data stack: **AWS, Azure, GCP, Snowflake, Databricks, Spark, Kafka, Airflow, dbt, and Delta Lake**.
-- 🤖 Currently expanding into **Generative AI, LLMs, LangChain, and AWS Bedrock** to build **intelligent, agentic data applications**.
+- 🏗️ **Architecting Solutions:** Expert in designing and building scalable data pipelines, robust lakehouse architectures, and high-performance real-time streaming systems.
+- 🏥 **Domain Expertise:** Proven track record of delivering data solutions across high-stakes industries, including HIPAA-regulated healthcare, Fortune 500 retail, and international banking.
+- ☁️ **Technical Proficiency:** Extensive hands-on experience with modern data stacks including AWS, Azure, GCP, Snowflake, Databricks, Spark, Kafka, and dbt.
+- 🤖 **Future-Ready:** Passionate about bridging the gap between Data Engineering and AI; currently focused on Generative AI, LLMs, LangChain, and AWS Bedrock to build intelligent, agentic data applications.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4479A1)
-![PySpark](https://img.shields.io/badge/PySpark-0D1117?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ### ⚙️ Big Data & ETL
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-0D1117?style=for-the-badge&logo=apachespark&logoColor=E25A1C)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-0D1117?style=for-the-badge&logo=apachekafka&logoColor=FFFFFF)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
-![Databricks](https://img.shields.io/badge/Databricks-0D1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
-![dbt](https://img.shields.io/badge/dbt-0D1117?style=for-the-badge&logo=dbt&logoColor=FF694B)
-![Debezium](https://img.shields.io/badge/Debezium-0D1117?style=for-the-badge&logo=debezium&logoColor=D32F2F)
-![Hadoop](https://img.shields.io/badge/Hadoop-0D1117?style=for-the-badge&logo=apachehadoop&logoColor=66CCFF)
-![Informatica](https://img.shields.io/badge/Informatica-0D1117?style=for-the-badge&logo=informatica&logoColor=FF4F00)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Debezium](https://img.shields.io/badge/Debezium-D32F2F?style=for-the-badge&logo=debezium&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-FF6F00?style=for-the-badge&logo=apachehadoop&logoColor=white)
+![Informatica](https://img.shields.io/badge/Informatica-FF4F00?style=for-the-badge&logo=informatica&logoColor=white)
 
-### ☁️ Cloud — AWS
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![S3](https://img.shields.io/badge/Amazon%20S3-0D1117?style=for-the-badge&logo=amazons3&logoColor=569A31)
-![Redshift](https://img.shields.io/badge/Redshift-0D1117?style=for-the-badge&logo=amazonredshift&logoColor=8C4FFF)
-![Glue](https://img.shields.io/badge/AWS%20Glue-0D1117?style=for-the-badge&logo=amazonaws&logoColor=4053D6)
-![Lambda](https://img.shields.io/badge/AWS%20Lambda-0D1117?style=for-the-badge&logo=awslambda&logoColor=FF9900)
-![EMR](https://img.shields.io/badge/Amazon%20EMR-0D1117?style=for-the-badge&logo=amazonaws&logoColor=1A73E8)
-![Athena](https://img.shields.io/badge/Athena-0D1117?style=for-the-badge&logo=amazonaws&logoColor=512BD4)
-![Kinesis](https://img.shields.io/badge/Kinesis-0D1117?style=for-the-badge&logo=amazonaws&logoColor=8C4FFF)
-![Bedrock](https://img.shields.io/badge/AWS%20Bedrock-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+### ☁️ Cloud (AWS)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
+![Glue](https://img.shields.io/badge/AWS%20Glue-4053D6?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![EMR](https://img.shields.io/badge/Amazon%20EMR-1A73E8?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Athena](https://img.shields.io/badge/Athena-512BD4?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kinesis](https://img.shields.io/badge/Kinesis-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
-### ☁️ Cloud — Azure & GCP
-![Azure](https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
-![Data Factory](https://img.shields.io/badge/Data%20Factory-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
-![Synapse](https://img.shields.io/badge/Synapse-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
-![Event Hubs](https://img.shields.io/badge/Event%20Hubs-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
-![Key Vault](https://img.shields.io/badge/Key%20Vault-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
-![GCP](https://img.shields.io/badge/Google%20Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
-![BigQuery](https://img.shields.io/badge/BigQuery-0D1117?style=for-the-badge&logo=googlebigquery&logoColor=669DF6)
+### ☁️ Cloud (Azure & GCP)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Data Factory](https://img.shields.io/badge/Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Synapse](https://img.shields.io/badge/Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Event Hubs](https://img.shields.io/badge/Event%20Hubs-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Key Vault](https://img.shields.io/badge/Key%20Vault-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
 ### 🗄️ Databases & Modeling
-![Snowflake](https://img.shields.io/badge/Snowflake-0D1117?style=for-the-badge&logo=snowflake&logoColor=29B5E8)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Oracle](https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Delta Lake](https://img.shields.io/badge/Delta%20Lake-0D1117?style=for-the-badge&logo=databricks&logoColor=00ADD4)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### 🤖 AI / GenAI
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=FFFFFF)
-![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![LLMs](https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge&logo=openai&logoColor=FF6F61)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0D1117?style=for-the-badge&logo=openai&logoColor=8E44AD)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0D1117?style=for-the-badge&logo=robotframework&logoColor=00BFA6)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![LLMs](https://img.shields.io/badge/LLMs-FF6F61?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00BFA6?style=for-the-badge&logo=robotframework&logoColor=white)
 
 ### 🧰 DevOps & Tools
-![Terraform](https://img.shields.io/badge/Terraform-0D1117?style=for-the-badge&logo=terraform&logoColor=7B42BC)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Jenkins](https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=D24939)
-![Power BI](https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![QuickSight](https://img.shields.io/badge/QuickSight-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF4F8B)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![QuickSight](https://img.shields.io/badge/QuickSight-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
 ## 🎯 Current Focus
 
-🏥 **At Dermanuture** — architecting a **HIPAA-compliant healthcare lakehouse** on Azure Data Factory, Databricks, and Delta Lake, unifying EHR/EMR data from 8+ clinics with real-time IoT vitals streaming.
+🏥 **At Dermanuture**, I'm working on a HIPAA-compliant healthcare lakehouse on Azure Data Factory, Databricks, and Delta Lake. It pulls EHR/EMR data from 8+ clinics together and includes real-time IoT vitals streaming.
 
-🧪 **Active Personal Projects:**
-- 🤖 **AI-Powered Text-to-SQL Query Agent** — Natural language → optimized SQL using **LangChain + AWS Bedrock Claude**.
-- 🏦 **Real-Time Banking Data Pipeline** — End-to-end CDC streaming with **Kafka, Debezium, Delta Lake, dbt, Snowflake & Power BI**.
-- 🏥 **Real-Time Healthcare Data Engineering on Azure** — Hospital network simulation using **Event Hubs, Databricks, Synapse & Medallion Architecture**.
+🧪 **Personal projects I'm actively working on:**
+- 🤖 **AI-Powered Text-to-SQL Query Agent** : Turns plain English questions into SQL using LangChain and AWS Bedrock Claude.
+- 🏦 **Real-Time Banking Data Pipeline** : End-to-end CDC streaming with Kafka, Debezium, Delta Lake, dbt, Snowflake, and Power BI.
+- 🏥 **Real-Time Healthcare Data Engineering on Azure** : A hospital network simulation built on Event Hubs, Databricks, Synapse, and Medallion Architecture.
 
-🔭 **Exploring:** Agentic AI workflows, GenAI-powered data observability, and LLM-driven analytics copilots.
+🔭 **Currently learning:** Agentic AI workflows, GenAI for data observability, and LLM-driven analytics copilots.
 
 ---
 
@@ -146,7 +146,7 @@
 ---
 
 <p align="center">
-  <i>⭐ "Turning raw data into reliable, intelligent systems — one pipeline at a time."</i>
+  <i>⭐ Thanks for stopping by. Feel free to reach out if you want to talk data, pipelines, or GenAI.</i>
 </p>
 
 <p align="center">
