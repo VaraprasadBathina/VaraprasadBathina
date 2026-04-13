@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Vidhyalakshmivaraprasad+Bathina+%F0%9F%91%8B;Data+Engineer+with+5%2B+Years+Experience;Cloud%2C+Streaming+and+GenAI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+VaraprasadBathina+Bathina+%F0%9F%91%8B;Data+Engineer+with+5%2B+Years+Experience;Cloud%2C+Streaming+and+GenAI" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vidhyalakshmivaraprasad&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=VaraprasadBathina&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Focus-Data%20Engineering%20%2B%20GenAI-1F6FEB?style=flat-square&logo=databricks&logoColor=white" alt="Focus"/>
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-2EA043?style=flat-square&logo=github&logoColor=white" alt="Open to Work"/>
 </p>
@@ -108,20 +108,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vidhyalakshmivaraprasad&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vidhyalakshmivaraprasad&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VaraprasadBathina&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaraprasadBathina&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhyalakshmivaraprasad&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaraprasadBathina&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vidhyalakshmivaraprasad&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=VaraprasadBathina&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vidhyalakshmivaraprasad&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VaraprasadBathina&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
@@ -129,13 +129,13 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="mailto:vidhyalakshmivaraprasadb@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#35435c515d4c5459545e465d585c4354475445475446545157755258545c591b565a58">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Vidhyalakshmivaraprasad" target="_blank">
+  <a href="https://github.com/VaraprasadBathina" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
   </a>
   <a href="#" target="_blank">
@@ -150,5 +150,4 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=100&section=footer" alt="footer"/>
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,1
