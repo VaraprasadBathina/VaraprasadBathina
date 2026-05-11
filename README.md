@@ -18,7 +18,7 @@
 ## 🧑‍💻 About Me
 
 - 🏗️ **5+ years** building data pipelines, lakehouse architectures, and real-time streaming systems that handle **6M+ daily records** across distributed platforms.
-- 🏥 I've worked in **pharmaceutical supply chain** (Cardinal Health), **Fortune 500 retail** (Foot Locker), and **grocery/CPG** (Woolworths Group via TCS), so compliance, data quality, and uptime are baked into how I build.
+- 🏥 I've worked in **pharmaceutical supply chain** (Cardinal Health), **Fortune 500 retail** (Foot Locker), and **Retail/Supply chain** (TCS), so compliance, data quality, and uptime are baked into how I build.
 - ☁️ My day-to-day tools include **Azure, Databricks, Spark, Kafka, Snowflake, Airflow, Delta Lake, and dbt**.
 - ⚡ Recent wins: cut source onboarding from 3 weeks to 4 days, dropped data availability from 4-hour batch cycles to under 5 minutes, and resolved Spark small-file bottlenecks across 6M+ daily records.
 
